@@ -59,7 +59,7 @@ export const Banner = () => {
                 <h1>{`¡Hola! Soy Luis`} <br></br><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Desarrollador Web", "Diseñador Web", "Técnico Informatico" ]'><span className="wrap">{text}</span></span></h1>
                   <p>
                     Soy una persona organizada y responsable que siempre lleva las tareas al día. Me gusta trabajar tanto de forma individual como en equipo y me considero una persona capaz de lidiar bastante bien con los problemas.
-                    Tenga buenos dotes de liderazgo y me gusta que haya siempre un buen ambiente de trabajo.
+                    Tengo buenos dotes de liderazgo y me gusta que haya siempre un buen ambiente de trabajo.
                     Mi objetivo es ganar experiencia y mejorar mis habilidades en el sector.
                   </p>
                   <button onClick={() => console.log('connect')}>Contáctame <ArrowRightCircle size={25} /></button>
